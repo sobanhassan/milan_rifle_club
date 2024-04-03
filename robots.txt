@@ -1,0 +1,5 @@
+User-agent: * 
+Crawl-Delay: 20
+
+
+Sitemap: https://www.milanrifle.club/sitemap.xml
